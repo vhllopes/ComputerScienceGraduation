@@ -8,19 +8,19 @@ Este projeto é uma aplicação de gerenciamento de uma biblioteca, desenvolvida
 
 ## Instruções para Execução
 
-1**Baixe o código-fonte do projeto.**
+1 **Baixe o código-fonte do projeto.**
 
-2️**Certifique-se de ter o JDK instalado em seu sistema.**
+2️ **Certifique-se de ter o JDK instalado em seu sistema.**
 
-3️**Baixe e instale o JavaFX SDK** em seu sistema.
+3️ **Baixe e instale o JavaFX SDK** em seu sistema.
 
-4️**Abra o projeto em uma IDE Java** (exemplo: IntelliJ IDEA, Eclipse).
+4️ **Abra o projeto em uma IDE Java** (exemplo: IntelliJ IDEA, Eclipse).
 
-5️**Configure corretamente o JDK e o JavaFX SDK** na sua IDE.
+5️ **Configure corretamente o JDK e o JavaFX SDK** na sua IDE.
 
-6️**Compile e execute o projeto.**
+6️ **Compile e execute o projeto.**
 
-7️**Tela de Login**:
+7️ **Tela de Login**:
    - Ao iniciar o programa, você será recebido com a tela de login.
    - Faça login como **usuário** ou **administrador**.
 
