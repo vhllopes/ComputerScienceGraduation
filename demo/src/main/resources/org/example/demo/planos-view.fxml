@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<VBox prefHeight="416.0" prefWidth="437.0" style="-fx-background-color: #212120;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.demo.PlanosController">
+
+<children>
+      <Text fill="#94886f" layoutX="10.0" layoutY="106.0" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="188.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="39.200010776519775">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Button fx:id="standardButton" mnemonicParsing="false" onAction="#alterarPlanoStandard" style="-fx-background-color: transparent; -fx-border-color: #3d342d;" text="Standard" textFill="#847e65">
+         <font>
+            <Font name="Berlin Sans FB" size="25.0" />
+         </font>
+      </Button>
+      <Text fill="#aca172" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 24,90">
+         <font>
+            <Font name="Bauhaus 93" size="30.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="124.0" strokeType="OUTSIDE" strokeWidth="0.0" text="No Plano Standard, os usuários têm acesso ao extenso catálogo de livros físicos da biblioteca. ">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="142.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Este plano permite realizar empréstimos de livros físicos para desfrutar de uma leitura ">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="tradicional. Ideal para quem prefere o toque e o cheiro dos livros impressos.">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="306.0" strokeType="OUTSIDE" strokeWidth="0.0">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="172.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="39.200010776519775">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Button fx:id="premiumButton" mnemonicParsing="false" onAction="#alterarPlanoPremium" style="-fx-background-color: transparent; -fx-border-color: #3d342d;" text="Premium" textFill="#847e65">
+         <font>
+            <Font name="Berlin Sans FB" size="25.0" />
+         </font>
+      </Button>
+      <Text fill="#aca172" strokeType="OUTSIDE" strokeWidth="0.0" text="R$ 49,90">
+         <font>
+            <Font name="Bauhaus 93" size="30.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="178.0" strokeType="OUTSIDE" strokeWidth="0.0" text="O Plano Premium oferece uma experiência completa e digitalizada para os amantes da leitura.">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="196.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Com este plano, os usuários têm acesso a todo o catálogo de livros da biblioteca, incluindo ">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="214.0" strokeType="OUTSIDE" strokeWidth="0.0" text="livros físicos e digitais. Além dos empréstimos de livros físicos, os assinantes podem baixar ">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+      <Text fill="#94886f" layoutX="10.0" layoutY="232.0" strokeType="OUTSIDE" strokeWidth="0.0" text="e ler eBooks diretamente em seus dispositivos eletrônicos.">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Text>
+   </children>
+</VBox>

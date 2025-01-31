@@ -1,0 +1,13 @@
+título;autor;editora;categoria;sinopse;codigo;anoPublicacao;formato;tamanhoArquivo
+Cem Anos de Solidão;Gabriel García Márquez;Record;Realismo Mágico;A saga da família Buendía na fictícia cidade de Macondo, narrando gerações de amores, desventuras e acontecimentos sobrenaturais.;101;1967;EPUB;1.8MB
+O Nome da Rosa;Umberto Eco;Record;Mistério;Em um mosteiro medieval, o frade franciscano William de Baskerville investiga uma série de assassinatos misteriosos.;102;1980;MOBI;2.1MB
+Guerra e Paz;Liev Tolstói;Editora 34;Histórico;A crônica épica das famílias aristocráticas russas durante as guerras napoleônicas, focando em temas de amor, guerra e paz.;103;1869;PDF;5.3MB
+O Código Da Vinci;Dan Brown;Arqueiro;Suspense;O simbologista Robert Langdon desvenda uma série de mistérios e conspirações históricas enquanto investiga um assassinato no Louvre.;104;2003;EPUB;1.9MB
+Harry Potter e a Pedra Filosofal;J.K. Rowling;Rocco;Fantasia;Harry Potter descobre ser um bruxo e embarca em uma jornada mágica na escola de magia e bruxaria de Hogwarts.;105;1997;MOBI;1.2MB
+Inferno;Dan Brown;Arqueiro;Suspense;Robert Langdon acorda em um hospital na Itália sem lembrar dos últimos dias e deve decifrar pistas ligadas a "A Divina Comédia" de Dante.;106;2013;EPUB;2.0MB
+O Símbolo Perdido;Dan Brown;Arqueiro;Suspense;O professor de simbologia Robert Langdon tenta desvendar um mistério que envolve a maçonaria e os fundadores dos Estados Unidos.;107;2009;MOBI;1.8MB
+As Aventuras de Sherlock Holmes;Arthur Conan Doyle;Penguin Books;Mistério;Uma coletânea de contos que narram as investigações do famoso detetive Sherlock Holmes e seu fiel amigo Dr. Watson.;108;1892;PDF; 
+O Guia do Mochileiro das Galáxias;Douglas Adams;Arqueiro;Ficção Científica;Arthur Dent é levado em uma viagem pelo espaço após a Terra ser destruída para dar lugar a uma via expressa intergaláctica.;109;1979;EPUB;1.6MB
+A Menina que Roubava Livros;Markus Zusak;Intrínseca;Ficção Histórica;Durante a Segunda Guerra Mundial, a jovem Liesel Meminger encontra consolo nos livros enquanto vive com uma família adotiva na Alemanha nazista.;110;2005;PDF;2.7MB
+O Físico;Noah Gordon;Rocco;Ficção Histórica;A história de Rob J. Cole, que viaja da Inglaterra ao Oriente Médio para aprender medicina na Pérsia do século XI.;111;1986;MOBI;2.5MB
+Admirável Mundo Novo;Aldous Huxley;Biblioteca Azul;Distopia;Uma visão distópica do futuro onde as pessoas são geneticamente manipuladas e a felicidade é garantida através de drogas.;112;1932;EPUB;1.4MB
