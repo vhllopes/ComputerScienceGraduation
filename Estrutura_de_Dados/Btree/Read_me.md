@@ -20,10 +20,8 @@ veiculos.c - Código principal para gerenciamento de veículos com Árvore B.
 veiculos.dat - Arquivo binário contendo os registros de veículos.
 b_treeM.idx - Arquivo binário armazenando a estrutura da Árvore B para indexação.
 
-Exemplo de Uso
-yaml
-Copiar
-Editar
+Exemplo de Uso:
+
 --- MENU ---
 1. Buscar Veículo (pela placa)
 2. Adicionar Veículo
