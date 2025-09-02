@@ -1,2 +1,2 @@
 # ComputerScienceGraduation
-Projects and materials I have developed during my undergraduate degree in  Computer Science
+Projetos e materiais que eu desenvolvi ao longo da minha graduação em Ciência da Computação.
